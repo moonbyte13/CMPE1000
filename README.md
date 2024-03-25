@@ -1,1 +1,1 @@
-![](./Formula%20Sheet.md)
+[Formula Sheet](./Formula%20Sheet.md)
